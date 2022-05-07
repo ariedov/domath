@@ -10,5 +10,7 @@ There are three different tools implemented via KMM:
 
 Both iOS and Android implementations use these classes to generate some math problems and check the results while displaying useful info to the user.
 
-![iOS screenshot](screenshots/iOS_screenshot.png)
-![Android screenshot](screenshots/android_screenshot.png)
+<img src="https://raw.githubusercontent.com/ariedov/domath/master/screenshots/iOS_screenshot.png" data-canonical-src="https://raw.githubusercontent.com/ariedov/domath/master/screenshots/iOS_screenshot.png" width="350" /> 
+
+<img src="https://raw.githubusercontent.com/ariedov/domath/master/screenshots/android_screenshot.png" data-canonical-src="https://raw.githubusercontent.com/ariedov/domath/master/screenshots/android_screenshot.png" width="350" />
+
