@@ -1,7 +1,5 @@
 package com.dleibovych.domath
 
-import java.lang.StringBuilder
-
 class SuggestedResultWrapper {
 
     private var resultString = StringBuilder()
@@ -29,7 +27,7 @@ class SuggestedResultWrapper {
     fun backspace(): String {
         if (resultString.isEmpty()) return result
 
-        resultString.deleteCharAt(resultString.length - 1)
+        resultString.deleteAt(resultString.length - 1)
         return result
     }
 }
